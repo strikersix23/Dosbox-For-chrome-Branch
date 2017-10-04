@@ -3,8 +3,8 @@
 body {
   margin: 0;
   background-color: #000000;
-  min-width: 660px;
-  min-height: 430px;
+  min-width: 860px;
+  min-height: 630px;
 }
 
 #nacl-module-container {
@@ -12,13 +12,13 @@ body {
   margin-bottom: 0px;
   margin-left: 10px;
   margin-right: 10px;
-  min-width: 640px;
-  min-height: 400px;
+  min-width: 840px;
+  min-height: 600px;
 }
 
 #nacl-module {
-  min-width: 640px;
-  min-height: 400px;
+  min-width: 840px;
+  min-height: 600px;
 }
 
 #log {
